@@ -1,0 +1,87 @@
+Confira aqui todos os DDD’s do Brasil, separados por região:
+
+Norte:
+Acre (AC) – DDD 68 (todos os municípios)
+Amapá (AP) – DDD 96 (todos os municípios)
+Amazonas (AM) – DDD 92 e 97
+DDD 92: Manaus e região
+DDD 97: Tefé, Coari e região
+Rondônia (RO) – DDD 69 (todos os municípios)
+Roraima (RR) – DDD 95 (todos os municípios)
+Tocantins (TO) – DDD 63 (todos os municípios)
+Nordeste:
+Alagoas (AL) – DDD 82 (todos os municípios)
+Bahia (BA) – DDD 71, 73, 74, 75, 77
+DDD 71: Região Metropolitana de Salvador
+DDD 73: Itabuna, Ilhéus e região
+DDD 74: Juazeiro e região
+DDD 75: Feira de Santana e região
+DDD 77: Vitória da Conquista e região
+Ceará (CE) – DDD 85 e 88
+DDD 85: Região Metropolitana de Fortaleza
+DDD 88: Juazeiro do Norte e região
+Maranhão (MA) – DDD 98 e 99
+DDD 98: Região Metropolitana de São Luís
+DDD 99: Região de Imperatriz
+Paraíba (PB) – DDD 83 (todos os municípios)
+Pernambuco (PE) – DDD 81 e 87
+DDD 81: Região Metropolitana de Recife
+DDD 87: Petrolina e região
+Piauí (PI) – DDD 86 e 89
+DDD 86: Região de Teresina
+DDD 89: Região de Picos e Floriano
+Rio Grande do Norte (RN) – DDD 84 (todos os municípios)
+Sergipe (SE) – DDD 79 (todos os municípios)
+Centro-Oeste:
+Distrito Federal (DF) – DDD 61 (Brasília e região)
+Tocantins: DDD 63 (todas as cidades do estado)
+Goiás (GO) – DDD 62 e 64
+DDD 62: Região Metropolitana de Goiânia
+DDD 64: Rio Verde e região
+Mato Grosso (MT) – DDD 65 e 66
+DDD 65: Região Metropolitana de Cuiabá
+DDD 66: Rondonópolis e região
+Mato Grosso do Sul (MS) – DDD 67 (todas as cidades do estado)
+Sudeste:
+Espírito Santo (ES) – DDD 27 e 28
+DDD 27: Região Metropolitana de Vitória
+DDD 28: Cachoeiro de Itapemirim e região
+Minas Gerais (MG) – DDD 31, 32, 33, 34, 35, 37, 38
+DDD 31: Região Metropolitana de Belo Horizonte
+DDD 32: Juiz de Fora e região
+DDD 33: Governador Valadares e região
+DDD 34: Uberlândia e região
+DDD 35: Poços de Caldas, Pouso Alegre, Varginha e região
+DDD 37: Divinópolis, Itaúna e região
+DDD 38: Montes Claros e região
+Rio de Janeiro (RJ) – DDD 21, 22 e 24
+DDD 21: Região Metropolitana do Rio de Janeiro
+DDD 22: Campos dos Goytacazes
+DDD 24: Volta Redonda, Petrópolis e região
+São Paulo (SP) – DDD 11, 12, 13, 14, 15, 16, 17, 18, 19
+DDD 11: região metropolitana de SP
+DDD 12: São José dos Campos e região
+DDD 13: região metropolitana da Baixada Santista
+DDD 14: Bauru, Jaú, Marília, Botucatu, e região
+DDD 15: Sorocaba e região
+DDD 16: Ribeirão Preto, São Carlos, Araraquara e região
+DDD 17: São José do Rio Preto e região. 
+DDD 18: Presidente Prudente, Araçatuba e região. 
+DDD 19: Região Metropolitana de Campinas
+Sul:
+Paraná (PR) – DDD 41, 42, 43, 44, 45, 46
+DDD 41: Região Metropolitana de Curitiba
+DDD 42: Ponta Grossa e região
+DDD 43: Londrina e região
+DDD 44: Maringá e região
+DDD 45: Cascavel e região
+DDD 46: Francisco Beltrão, Pato Branco e região
+Rio Grande do Sul (RS) – DDD 51, 53, 54, 55
+DDD 51: Região Metropolitana de Porto Alegre
+DDD 53: Pelotas e região
+DDD 54: Caxias do Sul e região
+DDD 55: Santa Maria e região
+Santa Catarina (SC) – DDD 47, 48, 49
+DDD 47: Joinville, Blumenau, Balneário Camboriú e região
+DDD 48: Região Metropolitana de Florianópolis e Criciúma
+DDD 49: Chapecó, Lages e região
